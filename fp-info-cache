@@ -1,4 +1,4 @@
-22208085490535077
+22209779225425915
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6481,6 +6481,13 @@ tag connect programming header pogo pins
 0
 14
 14
+Connector
+camera_pins_687124149022
+WR-FPC 0.50mm SMT Horiz. Bot. Contact Hinge type WR-FPC 0.50mm 24pins Hinge type SMT Horizontal Bottom Contact
+
+0
+26
+26
 Connector_AMASS
 AMASS_MR30PW-FB_1x03_P3.50mm_Horizontal
 Connector XT30 Horizontal PCB Female, https://www.tme.eu/en/Document/5e47640ba39fa492dbd4c0f4c8ae7b93/MR30PW%20SPEC.pdf
